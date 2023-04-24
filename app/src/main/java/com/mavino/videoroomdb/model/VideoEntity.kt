@@ -1,4 +1,4 @@
-package com.mavino.videoroomdb.db
+package com.mavino.videoroomdb.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
