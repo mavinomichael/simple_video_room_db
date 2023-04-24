@@ -3,6 +3,7 @@ package com.mavino.videoroomdb.db
 import androidx.room.TypeConverter
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.mavino.videoroomdb.model.VideoEntity
 
 class VideoTypeConverter {
 
